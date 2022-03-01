@@ -1,7 +1,0 @@
-#!/bin/bash
-HEAD
-echo "The school is open!"
-update_script
-echo "The school is open!"
-master
-
